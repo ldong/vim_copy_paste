@@ -1,12 +1,14 @@
 # README
 
-Using ,y and ,p ,P to copy and paste in visual mode across Vim windows
+Using `,y`, `,p`, and `,P` to copy and paste in visual mode across Vim windows
 
 ## Commands
 
-`,y`                      copy text
-`,p`                      paste text
-`,P`                      paste text
+```
+,y                      copy text
+,p                      paste text
+,P                      paste text
+```
 
 # Source
 
